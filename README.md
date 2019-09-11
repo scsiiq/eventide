@@ -6,3 +6,4 @@
 -подключение видео и карты
 -валидация email
 -hover-эффекты
+ссылка на landing page https://scsiiq.github.io/eventide/
